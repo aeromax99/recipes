@@ -6,4 +6,4 @@
 ![](https://www.skinnytaste.com/wp-content/uploads/2017/01/Guacamole-2.jpg)
 
 # VIDEO
-[![Watch the video](https://www.gimmesomeoven.com/wp-content/uploads/2012/08/The-Best-Guacamole-Recipe-1-1.jpg)](https://www.youtube.com/shorts/OxOA5ZqspQ8?feature=share)
+[![Watch the video](https://www.gimmesomeoven.com/wp-content/uploads/2012/08/The-Best-Guacamole-Recipe-1-1.jpg)(https://www.youtube.com/shorts/OxOA5ZqspQ8?feature=share)
