@@ -6,3 +6,4 @@
 
 ## Instruction
 * Mix all with a fork
+* also smash it 
